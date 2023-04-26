@@ -31,6 +31,8 @@ list_of_files = [
     "params.yaml",
     # requirements.txt file will be contains all packages required
     "requirements.txt",
+    # setup.py used for consider all the files as a module that we will create
+    # in src folder. so that we can import any files from src folder
     "setup.py",
     # this folder contains all the jupyter notebook files for testing purposes
     # before creating actual moduler coding
