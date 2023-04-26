@@ -15,6 +15,7 @@ project_name = "cnnClassifier"
 # Specify the all directories location
 list_of_files = [
     # this file will help us to create CI-CD pipeline
+    # ".github/workflows/main.yaml"
     ".github/workflows/.gitkeep",
     # we specify the __init__.py so that we can import any files from src folder
     # __init__.py folder treated as project module file
