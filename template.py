@@ -1,5 +1,5 @@
 # Basically using thie template.py file we can create
-# all the files and folders just one shot
+# All the files and folders just one shot
 
 # Import the necessary modules
 import os
